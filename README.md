@@ -1,13 +1,18 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas-vindas ao repositório do projeto ES6 e Testes Unitários! :test_tube:
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Neste projeto foram implementadas várias funções na resolução dos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas, de acordo com o que foi solicitado em cada enunciado.
+ #
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<strong>Desenvolvido por:</strong> [Gabriel Sousa](https://www.linkedin.com/in/gabriel-dev-biotec/)</br>
+#
+
+<summary><strong>Tecnologias exercitadas:</strong></summary><br />
+  
+ * JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>;
+ * Jest <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="20" height="20"/>.
+ 
+ <summary><strong>Habilidades desenvolvidas:</strong></summary><br />
+
+ * Escrever testes unitários utilizando o módulo Jest do NodeJS para verificar o correto funcionamento das funções;
+ * Escrever funções de forma que elas atendam a testes já implementados;
+ * Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
